@@ -1,0 +1,5 @@
+alias lispway="/home/zecuias/Dropbox/Centro/LispWay/lisp.way"
+alias sbcl="rlwrap sbcl"
+alias lighttable="./home/zecuias/Documents/Clojure/LightTable/deploy/LightTable"
+alias anova-contrato="~/Dropbox/Anova/anova-contrato-paulo"
+alias vimr="vim --servername VIM"
